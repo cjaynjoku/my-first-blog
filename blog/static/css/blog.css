@@ -10,6 +10,10 @@
     text-decoration: none;
 }
 
+body {
+color: #1f1f14;
+}
+
 .content {
     margin-left: 40px;
 }
